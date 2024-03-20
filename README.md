@@ -37,6 +37,8 @@ O desafio foi proposto no curso Explorer da Rocketseat. A ideia é aplicar o que
 - Clean Code
 - Manipulação de aúdio
 
+---
+
 <p align="center"> 
 Desenvolvido por: Guilherme Damasceno
 </p>
